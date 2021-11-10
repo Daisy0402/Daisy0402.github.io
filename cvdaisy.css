@@ -1,0 +1,68 @@
+body {
+	background-color : #FFCC99;
+	
+}
+
+
+.boxA {
+	width: 700px;
+	border: 3px solid black;
+	padding: 30px;
+	margin-bottom: 20px;
+	background-color: white;
+	
+
+
+}
+
+.boxB {
+	width: 700px;
+	border: 3px solid black;
+	padding: 30px;
+	margin-bottom: 20px;
+	Background-color: white;
+}
+
+.boxC{
+	width: 700px;
+	border: 3px solid black;
+	padding: 30px;
+	margin-bottom: 20px;
+	Background-color: white;
+}
+
+.right{
+	width: 180px;
+	border: 3px solid black;
+	padding: 30px;
+	Background-color: white;
+	float: right;
+	position: relative;
+	bottom: 700px;
+	right: 160px;
+	
+
+}
+
+.boxD{
+	background-color: white;
+	width: 180px;
+	border: 3px solid black;
+	padding: 30px;
+	float: right;
+	position: relative;
+	bottom: 400px;
+	left: 80px;
+	
+	
+}
+
+.boxE{
+	width: 180px;
+	
+	float: right;
+	position: relative;
+	bottom: 1020px;
+	left: 300px;
+
+}
